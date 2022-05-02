@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Audio/ClearFlag.wav</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Audio/LargeClear.wav</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Audio/Lose.mp3</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Audio/Mine.wav</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Audio/PlaceFlag.wav</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Audio/SmallClear.wav</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Audio/Win.mp3</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Fonts/GeneralFont.spritefont</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/1.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/2.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/3.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/4.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/5.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/6.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/7.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/8.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/board_easy.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/board_hard.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/board_med.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/Check.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/Clear_Dark.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/Clear_Light.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/colourOverlay.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/DropDown.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/EasyButton.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/Exit.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/explode.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/Explode2.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/flag.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/GameOver_NoTime.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/GameOver_PlayAgain.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/GameOver_Results.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/GameOver_TryAgain.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/GameOver_WinResults.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/GameOverBoardShadow.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/HardButton.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/HUDBar.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/Instructions.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/MedButton.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/Mine1.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/Mine2.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/Mine3.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/Mine4.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/Mine5.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/Mine6.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/Mine7.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/Mine8.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/Shovel.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/SoundOff.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/SoundOn.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/Trophy.png</File>
+    <File>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Images/Watch.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

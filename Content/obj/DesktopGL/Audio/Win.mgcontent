@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/Audio/Win.mp3</SourceFile>
+  <SourceTime>2022-04-13T01:55:00-04:00</SourceTime>
+  <DestFile>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/bin/DesktopGL/Audio/Win.xnb</DestFile>
+  <DestTime>2022-05-01T14:27:38.2161326-04:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-10-11T14:37:00-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-10-11T14:37:00-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/amyhu/Desktop/Minesweeper/Minesweeper/Content/bin/DesktopGL/Audio/Win.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
